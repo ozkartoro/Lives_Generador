@@ -200,6 +200,7 @@ def main(argv):
         else:
             print("\n Todas las tarjetas fueron validadas con exito ")
             print("\n Pueden ser usadas satisfactoriamente")
+            print("\n Eagle Team")
 
         if saveopt:
             save(bin_list)
